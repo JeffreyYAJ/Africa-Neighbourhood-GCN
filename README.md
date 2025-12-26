@@ -27,7 +27,7 @@ $$
 * `src/data.py`: Manual construction of the African Adjacency Matrix and Feature set.
 * `src/utils.py`: Spectral normalization of the adjacency matrix.
 
-## 🚀 How to Run
+## How to Run
 
 1. **Install Dependencies**
    ```bash
@@ -54,4 +54,5 @@ The training script automatically generates a visualization of the graph, colori
 ---
 
 Created with passion for AI & Africa.
+
 **JeffreyYAJ**
